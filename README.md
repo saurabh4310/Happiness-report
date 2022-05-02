@@ -25,7 +25,7 @@ I will be visualizing a dataset of 166 countries in three years (2015, 2016, 201
 
 5. Life expectancy
 
-<h6>Reproducing the Report</h6>
+## Reproducing the Report
 
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 <ol>
