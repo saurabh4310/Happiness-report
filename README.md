@@ -2,7 +2,7 @@
 
 Shiny app that show happiness scores of countries around the world in 2015, 2016 and 2017.
 
-App URL: https://nazliozum.shinyapps.io/shiny_happiness/
+App URL: 
 
 ## Overview
 
