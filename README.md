@@ -2,7 +2,7 @@
 
 Shiny app that show happiness scores of countries around the world in 2015, 2016 and 2017.
 
-App URL: https://saurabh4310.shinyapps.io/Project_happiness/
+App URL: https://saurabh4310.shinyapps.io/HAPPINESS/
 
 ## Overview
 
@@ -24,3 +24,17 @@ I will be visualizing a dataset of 166 countries in three years (2015, 2016, 201
 4. GDP per capita
 
 5. Life expectancy
+
+<h6>Reproducing the Report</h6>
+
+If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+<ol>
+  <li>Download all items in the <em>HAPPINESS</em> folder</li>
+  <li>Open <em>HAPPINESS.Rproj</em> in R Studio</li>
+  <li>Make sure both data and docs folder are present</li>
+  <li>Open APP.R</li>
+  <li>Click "Run App" in the upper right corner of the code panel</li>
+  <li>(optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser</li>
+</ol>
+
+<hr>
