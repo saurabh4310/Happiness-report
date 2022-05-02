@@ -2,7 +2,7 @@
 
 Shiny app that show happiness scores of countries around the world in 2015, 2016 and 2017.
 
-App URL: 
+App URL: https://saurabh4310.shinyapps.io/Project_happiness/
 
 ## Overview
 
